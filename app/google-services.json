@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "426343014730",
+    "firebase_url": "https://my-evpan.firebaseio.com",
+    "project_id": "my-evpan",
+    "storage_bucket": "my-evpan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426343014730:android:0e79aab00a6167399821b3",
+        "android_client_info": {
+          "package_name": "com.mylatestfree.mylatestfreeevpan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426343014730-dn440n7dojbejaba6iohpvf5udldfst8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mylatestfree.mylatestfreeevpan",
+            "certificate_hash": "491ad45ed654394a621b2bd304b8cc49afff51c1"
+          }
+        },
+        {
+          "client_id": "426343014730-hi70mlrtrl1920ahglr3um0gctc9h2ki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Y18103Pm-09x_yupR4W5CGc3K_Zgais"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426343014730-hi70mlrtrl1920ahglr3um0gctc9h2ki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
